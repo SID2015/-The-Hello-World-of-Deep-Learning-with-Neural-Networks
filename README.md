@@ -48,3 +48,9 @@ We can use the model.predict method to have it figure out the Y for a previously
 
 Here, we need to know is that neural networks deal with probabilities, so given the data that we fed the NN with, it calculated that there is a very high probability that the relationship between X and Y is Y=2X-1, but with only 6 data points we can't know for sure. As a result, the result for 10 is very close to 19, but not necessarily 19.
 
+
+![](/imgs/Training_NN.png)
+
+
+![](/imgs/Output.png)
+
