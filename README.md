@@ -15,7 +15,7 @@ We then import a library called numpy, which helps us to represent our data as l
 
 # Step 2
 
-we will create the simplest possible neural network. It has 1 layer, and that layer has 1 neuron,
+We will create the simplest possible neural network. It has 1 layer, and that layer has 1 neuron,
 and the input shape to it is just 1 value.
 
 The LOSS function measures the guessed answers against the known correct answers and measures 
